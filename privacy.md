@@ -2,7 +2,7 @@
 
 **Last updated: April 2026**
 
-This privacy policy applies to the Chrome Extension created by [YOUR NAME OR COMPANY] strictly for internal team use.
+This privacy policy applies to the Chrome Extension created by Derekb00 strictly for internal team use.
 
 ### 1. Data Collection
 Because this is an internal business tool, the Extension collects very limited data required for it to function:
