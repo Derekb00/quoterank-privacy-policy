@@ -1,1 +1,0 @@
-# quoterank-privacy-policy
